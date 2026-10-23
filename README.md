@@ -166,6 +166,13 @@ The module outputs resource IDs for explicit composition without embedding publi
 
 ---
 
+## Related technical articles
+
+- [Event-Driven Azure with Terraform: Functions, APIs, Events and Streams](https://foggykitchen.com/2026/09/28/event-driven-azure-modules-functions-event-grid-event-hubs/)
+  — Understand how Functions, APIs, Event Grid and Event Hubs fit together as event-driven building blocks.
+- [Azure Data Pipelines with Terraform: From API and Blob Events to PostgreSQL](https://foggykitchen.com/2026/10/05/azure-data-pipelines-functions-event-hubs-postgresql/)
+  — Trace API-driven and Blob-triggered ingestion through Functions and Event Hubs to PostgreSQL, including retry and idempotency boundaries.
+
 ## License
 
 Licensed under the Universal Permissive License (UPL), Version 1.0.
